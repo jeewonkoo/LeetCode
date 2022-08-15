@@ -20,6 +20,5 @@ class Solution:
         return matrix
                 
 if __name__ == '__main__':
-    # begin
     s = Solution()
     print(s.setZeroes([[1,1,1],[1,0,1],[1,1,1]]))
