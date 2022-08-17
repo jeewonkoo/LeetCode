@@ -4,6 +4,7 @@
 
 | No. | Title | Note | Tags|
 | ------------- |:-------------:| -------------| -------------|
+| [1](https://leetcode.com/problems/two-sum/) | Two Sum | [Note](https://www.notion.so/jeewonkoo/1-Two-Sum-3b9351fdc47a4cdcafb58f5c1118017c) | N/A |
 | [11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | [Note](https://www.notion.so/jeewonkoo/11-Container-With-Most-Water-dcf1d37de2994e70a803800b981afcb7) | Blind 75 |
 | [54](https://leetcode.com/problems/spiral-matrix/) | Sprial Matrix | [Note](https://www.notion.so/jeewonkoo/54-Spiral-Matrix-4ba62b60740548f2807ab92768eb4d20) | Blind 75 |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Note](https://www.notion.so/jeewonkoo/70-Climbing-Stairs-f23050190629491e9ffb3730ab274fea) | Blind 75 |
