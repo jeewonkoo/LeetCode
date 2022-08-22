@@ -15,6 +15,7 @@
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Bset Time to Buy and Sell Stock | [Note](https://www.notion.so/jeewonkoo/121-Best-Time-to-Buy-and-Sell-Stock-0f5fbb3d9a7b4581b3dd220deb17bdaa) | Blind 75 |
 | [133](https://leetcode.com/problems/clone-graph/) | Clone Graph | [Note](https://www.notion.so/jeewonkoo/133-Clone-Graph-f239349fa28b45e2a8f1ea30cff23865) | Blind 75 |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | [Note](https://www.notion.so/jeewonkoo/141-Linked-List-Cycle-58527af5ac5348f2a28e231b75dc0c6d) | Blind 75 |
+| [217](https://leetcode.com/problems/contains-duplicate/) | Contains Duplicate | [Note](https://www.notion.so/jeewonkoo/217-Contains-Duplicate-c099e416eebd425f89582e5e6f784570) | Blind 75 |
 | [322](https://leetcode.com/problems/coin-change/) | Coin Change | [Note](https://www.notion.so/jeewonkoo/332-Coin-Change-f038e00cb0e04ebb9963135895706a3a) | Blind 75 |
 | [342](https://leetcode.com/problems/power-of-four/) | Power of Four | [Note](https://www.notion.so/jeewonkoo/342-Power-of-Four-d28b97a0c740495c96508e13ae054875) | Daily Challenge |
 | [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [Note](https://www.notion.so/jeewonkoo/387-First-Unique-Character-in-a-String-61a7a426fa894bbca4c1d4dc130d9050) | Daily Challenge |
