@@ -10,6 +10,7 @@
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Array | [Note](https://www.notion.so/jeewonkoo/0ccb17f9a7d84da2bf3b5f3c85242f01?v=5ecf425d37e241158c6f2c5a10d02547&p=5e986e3b7c754757b55c6a876424cfa6&pm=s) | Blind 75 |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Note](https://www.notion.so/jeewonkoo/22-Generate-Parentheses-1fff66a427d74e0cba5bed6c805c18ca) |  |
 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge k Sorted Lists | [Note](https://www.notion.so/jeewonkoo/23-Merge-k-Sorted-Lists-fe2127bd23bf464b9de06bd98683c30a) | Blind 75 |
+| [31](https://leetcode.com/problems/next-permutation/) | Next Permutation | [Note](https://www.notion.so/jeewonkoo/31-Next-Permutation-59100fe392a64dd89a76321b89275563) |  |
 | [54](https://leetcode.com/problems/spiral-matrix/) | Sprial Matrix | [Note](https://www.notion.so/jeewonkoo/54-Spiral-Matrix-4ba62b60740548f2807ab92768eb4d20) | Blind 75 |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Note](https://www.notion.so/jeewonkoo/70-Climbing-Stairs-f23050190629491e9ffb3730ab274fea) | Blind 75 |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeros | [Note](https://www.notion.so/jeewonkoo/73-Set-Matrix-Zeros-9151ff09549447a3ac13b1b149043f24) | Blind 75 |
