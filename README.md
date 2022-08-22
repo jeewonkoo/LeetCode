@@ -12,6 +12,7 @@
 | [54](https://leetcode.com/problems/spiral-matrix/) | Sprial Matrix | [Note](https://www.notion.so/jeewonkoo/54-Spiral-Matrix-4ba62b60740548f2807ab92768eb4d20) | Blind 75 |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Note](https://www.notion.so/jeewonkoo/70-Climbing-Stairs-f23050190629491e9ffb3730ab274fea) | Blind 75 |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeros | [Note](https://www.notion.so/jeewonkoo/73-Set-Matrix-Zeros-9151ff09549447a3ac13b1b149043f24) | Blind 75 |
+| [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | [Note](https://www.notion.so/jeewonkoo/88-Merge-Sorted-Array-2e5663fe31d24ab99dd084e215868ea9) | Blind 75 |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Bset Time to Buy and Sell Stock | [Note](https://www.notion.so/jeewonkoo/121-Best-Time-to-Buy-and-Sell-Stock-0f5fbb3d9a7b4581b3dd220deb17bdaa) | Blind 75 |
 | [133](https://leetcode.com/problems/clone-graph/) | Clone Graph | [Note](https://www.notion.so/jeewonkoo/133-Clone-Graph-f239349fa28b45e2a8f1ea30cff23865) | Blind 75 |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | [Note](https://www.notion.so/jeewonkoo/141-Linked-List-Cycle-58527af5ac5348f2a28e231b75dc0c6d) | Blind 75 |
