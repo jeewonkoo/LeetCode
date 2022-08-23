@@ -4,7 +4,7 @@ class ListNode:
         self.val = val
         self.next = next
 class Solution:
-    def isPalindrome_stack(self, head) -> bool:
+    def isPalindrome_stack(self, head):
         """
         type head:: Optional[ListNode]
         rtype: bool
@@ -26,7 +26,7 @@ class Solution:
         #if it iterates till the end, then all values of list and stack match, so return True
         return True
 
-    def isPalindrome_pythonic_way(self, head) -> bool:
+    def isPalindrome_pythonic_way(self, head):
         """
         type head:: Optional[ListNode]
         rtype: bool
@@ -37,3 +37,25 @@ class Solution:
             stack.append(curr.val)
             curr = curr.next
         return stack == stack[::-1]
+    
+    def isPalindrome_reverse(self, head):
+        rev = None
+        slow = fast = head 
+        
+        #reverse linked list until before middle node or mid-way
+        while fast and fast.next:
+            fast = fast.next.next 
+            rev, rev.next, slow = slow, rev, slow.next
+            # temp = slow.next
+            # slow.next = rev
+            # rev = slow
+            # slow = temp
+            
+        if fast: 
+            slow = slow.next 
+        
+        while rev and slow:
+            if rev.val != slow.val: return False
+            rev, slow = rev.next, slow.next
+            
+        return True
