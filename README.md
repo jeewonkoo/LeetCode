@@ -16,6 +16,7 @@
 | [62](https://leetcode.com/problems/unique-paths/) | Unique Paths | [Note](https://jeewonkoo.notion.site/62-Unique-Paths-49da8b9632d04d28a6a4aee5b4f1e811) |  |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Note](https://jeewonkoo.notion.site/70-Climbing-Stairs-f23050190629491e9ffb3730ab274fea) | Blind 75 |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeros | [Note](https://jeewonkoo.notion.site/73-Set-Matrix-Zeros-9151ff09549447a3ac13b1b149043f24) | Blind 75 |
+| [81](https://leetcode.com/problems/decode-ways/) | Decode Ways | [Note](https://jeewonkoo.notion.site/81-Decode-Ways-b5fa802b92314d78989985227e36f92f) |  |
 | [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | [Note](https://jeewonkoo.notion.site/88-Merge-Sorted-Array-2e5663fe31d24ab99dd084e215868ea9) |  |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Bset Time to Buy and Sell Stock | [Note](https://jeewonkoo.notion.site/121-Best-Time-to-Buy-and-Sell-Stock-0f5fbb3d9a7b4581b3dd220deb17bdaa) | Blind 75 |
 | [133](https://leetcode.com/problems/clone-graph/) | Clone Graph | [Note](https://jeewonkoo.notion.site/133-Clone-Graph-f239349fa28b45e2a8f1ea30cff23865) | Blind 75 |
