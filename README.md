@@ -21,12 +21,15 @@
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Bset Time to Buy and Sell Stock | [Note](https://jeewonkoo.notion.site/121-Best-Time-to-Buy-and-Sell-Stock-0f5fbb3d9a7b4581b3dd220deb17bdaa) | Blind 75 |
 | [133](https://leetcode.com/problems/clone-graph/) | Clone Graph | [Note](https://jeewonkoo.notion.site/133-Clone-Graph-f239349fa28b45e2a8f1ea30cff23865) | Blind 75 |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | [Note](https://jeewonkoo.notion.site/141-Linked-List-Cycle-58527af5ac5348f2a28e231b75dc0c6d) | Blind 75 |
+| [206](https://leetcode.com/problems/reverse-linked-list/) | Reversed Linked List | [Note](https://jeewonkoo.notion.site/206-Reverse-Linked-List-5e8ea1c55c0e43dfaec6a5e874f21216) |  |
 | [217](https://leetcode.com/problems/contains-duplicate/) | Contains Duplicate | [Note](https://jeewonkoo.notion.site/217-Contains-Duplicate-c099e416eebd425f89582e5e6f784570) | Blind 75 |
 | [234](https://leetcode.com/problems/palindrome-linked-list/) | Palindrome Linked List | [Note](https://jeewonkoo.notion.site/234-Palindrome-Linked-List-57f6ca58e1a44def8053df0da309bbb5) | Daily Challenge |
+| [242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | [Note](https://jeewonkoo.notion.site/242-Valid-Anagram-c336fc2d6b2d4ca98e542c5ed99146c1) |  |
 | [268](https://leetcode.com/problems/missing-number/) | Missing Number | [Note](https://jeewonkoo.notion.site/268-Missing-Number-3d777f86631f493e8f69a337a2df3683) | Blind 75 |
 | [322](https://leetcode.com/problems/coin-change/) | Coin Change | [Note](https://jeewonkoo.notion.site/332-Coin-Change-f038e00cb0e04ebb9963135895706a3a) | Blind 75 |
 | [326](https://leetcode.com/problems/power-of-three/) | Power of Three | [Note](https://jeewonkoo.notion.site/326-Power-of-Three-4f53b265c24b4e8f8ff226a8a894c7b1) | Daily Challenge |
 | [342](https://leetcode.com/problems/power-of-four/) | Power of Four | [Note](https://jeewonkoo.notion.site/342-Power-of-Four-d28b97a0c740495c96508e13ae054875) | Daily Challenge |
+| [344](https://leetcode.com/problems/reverse-string/) | Reverse String | [Note](https://jeewonkoo.notion.site/344-Reverse-String-650a481e345141d393d8e3ec2fa1b5a2) |  |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | Top K Frequent Elements | [Note](https://jeewonkoo.notion.site/347-Top-K-Frequent-Elements-4ba4b752b29d42b598e25d3856399789) |  |
 | [383](https://leetcode.com/problems/ransom-note/) | Ransom Note | [Note](https://jeewonkoo.notion.site/383-Ransom-Note-d8fffe490179420994eff63402f69037) | Daily Challenge |
 | [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [Note](https://jeewonkoo.notion.site/387-First-Unique-Character-in-a-String-61a7a426fa894bbca4c1d4dc130d9050) | Daily Challenge |
