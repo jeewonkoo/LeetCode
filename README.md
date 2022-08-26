@@ -36,5 +36,6 @@
 | [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [Note](https://jeewonkoo.notion.site/412-FizzBuzz-7b3f1b7cfd344dbfafd1fc0c192d603d) |  |
 | [724](https://leetcode.com/problems/find-pivot-index/) | Find Pivot Index | [Note](https://jeewonkoo.notion.site/724-Find-Pivot-Index-316ee06a396f4f20a8c25b20592575be) |  |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | Uniqye Morse Code Words | [Note](https://jeewonkoo.notion.site/804-Unique-Morse-Code-Words-8a64daa11ca14273b97ecedee712a139) | Daily Challenge |
+| [869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power Of 2 | [Note](https://jeewonkoo.notion.site/869-Reordered-Power-of-2-84f9a41c166943f28c10f15ee5e6dae2) | Daily Challenge |
 | [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Reduce Array Size to The Half | [Note](https://jeewonkoo.notion.site/1338-Reduce-Array-Size-to-The-Half-b8b88a36216d47c8b15d3468e767dae4) | Daily Challenge |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | [Note](https://jeewonkoo.notion.site/1480-Running-Sum-of-1d-Array-c14b3ed7ac524c75854bb3e27505d798) |  |
