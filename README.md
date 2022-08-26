@@ -34,6 +34,7 @@
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | Top K Frequent Elements | [Note](https://jeewonkoo.notion.site/347-Top-K-Frequent-Elements-4ba4b752b29d42b598e25d3856399789) |  |
 | [383](https://leetcode.com/problems/ransom-note/) | Ransom Note | [Note](https://jeewonkoo.notion.site/383-Ransom-Note-d8fffe490179420994eff63402f69037) | Daily Challenge |
 | [387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | [Note](https://jeewonkoo.notion.site/387-First-Unique-Character-in-a-String-61a7a426fa894bbca4c1d4dc130d9050) | Daily Challenge |
+| [392](https://leetcode.com/problems/is-subsequence/) | Is Subsequence | [Note](https://jeewonkoo.notion.site/395-Is-Subsequence-4ffb4a9b8598436bb948a11647744657) |  |
 | [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [Note](https://jeewonkoo.notion.site/412-FizzBuzz-7b3f1b7cfd344dbfafd1fc0c192d603d) |  |
 | [724](https://leetcode.com/problems/find-pivot-index/) | Find Pivot Index | [Note](https://jeewonkoo.notion.site/724-Find-Pivot-Index-316ee06a396f4f20a8c25b20592575be) |  |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | Uniqye Morse Code Words | [Note](https://jeewonkoo.notion.site/804-Unique-Morse-Code-Words-8a64daa11ca14273b97ecedee712a139) | Daily Challenge |
