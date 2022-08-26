@@ -14,6 +14,7 @@
 | [36](https://leetcode.com/problems/valid-sudoku/) | Valid Sudoku | [Note](https://jeewonkoo.notion.site/36-Valid-Sudoku-dddbad4c12a14262a1d83e8694672bf4) |  |
 | [54](https://leetcode.com/problems/spiral-matrix/) | Sprial Matrix | [Note](https://jeewonkoo.notion.site/54-Spiral-Matrix-4ba62b60740548f2807ab92768eb4d20) | Blind 75 |
 | [62](https://leetcode.com/problems/unique-paths/) | Unique Paths | [Note](https://jeewonkoo.notion.site/62-Unique-Paths-49da8b9632d04d28a6a4aee5b4f1e811) |  |
+| [69](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | [Note](https://jeewonkoo.notion.site/69-Sqrt-x-73b008e0f25f474e8df2402a15cce0b7) |  |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Note](https://jeewonkoo.notion.site/70-Climbing-Stairs-f23050190629491e9ffb3730ab274fea) | Blind 75 |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeros | [Note](https://jeewonkoo.notion.site/73-Set-Matrix-Zeros-9151ff09549447a3ac13b1b149043f24) | Blind 75 |
 | [81](https://leetcode.com/problems/decode-ways/) | Decode Ways | [Note](https://jeewonkoo.notion.site/81-Decode-Ways-b5fa802b92314d78989985227e36f92f) |  |
@@ -36,6 +37,6 @@
 | [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [Note](https://jeewonkoo.notion.site/412-FizzBuzz-7b3f1b7cfd344dbfafd1fc0c192d603d) |  |
 | [724](https://leetcode.com/problems/find-pivot-index/) | Find Pivot Index | [Note](https://jeewonkoo.notion.site/724-Find-Pivot-Index-316ee06a396f4f20a8c25b20592575be) |  |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | Uniqye Morse Code Words | [Note](https://jeewonkoo.notion.site/804-Unique-Morse-Code-Words-8a64daa11ca14273b97ecedee712a139) | Daily Challenge |
-| [869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power Of 2 | [Note](https://jeewonkoo.notion.site/869-Reordered-Power-of-2-84f9a41c166943f28c10f15ee5e6dae2) | Daily Challenge |
+| [869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | [Note](https://jeewonkoo.notion.site/869-Reordered-Power-of-2-84f9a41c166943f28c10f15ee5e6dae2) | Daily Challenge |
 | [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Reduce Array Size to The Half | [Note](https://jeewonkoo.notion.site/1338-Reduce-Array-Size-to-The-Half-b8b88a36216d47c8b15d3468e767dae4) | Daily Challenge |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | [Note](https://jeewonkoo.notion.site/1480-Running-Sum-of-1d-Array-c14b3ed7ac524c75854bb3e27505d798) |  |
