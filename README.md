@@ -43,5 +43,6 @@
 | [869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | [Note](https://jeewonkoo.notion.site/869-Reordered-Power-of-2-84f9a41c166943f28c10f15ee5e6dae2) | Daily Challenge |
 | [876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [Note](https://jeewonkoo.notion.site/876-Middle-of-the-Linked-List-6ec381c712244b73af94cb6c2c6db6f5) |  |
 | [1205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings | [Note](https://jeewonkoo.notion.site/1205-Isomorphic-Strings-916e0d4a58b147de82907cc736d5ba8c) |  |
+| [1329](https://leetcode.com/problems/sort-the-matrix-diagonally/) | Sort the Matrix Diagonally | [Note](https://jeewonkoo.notion.site/1329-Sort-the-Matrix-Diagonally-d58ec31f1f644cf2a4ee28f8068e5073) | Daily Challenge |
 | [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Reduce Array Size to The Half | [Note](https://jeewonkoo.notion.site/1338-Reduce-Array-Size-to-The-Half-b8b88a36216d47c8b15d3468e767dae4) | Daily Challenge |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | [Note](https://jeewonkoo.notion.site/1480-Running-Sum-of-1d-Array-c14b3ed7ac524c75854bb3e27505d798) |  |
