@@ -7,7 +7,8 @@
 | [1](https://leetcode.com/problems/two-sum/) | Two Sum | [Note](https://jeewonkoo.notion.site/1-Two-Sum-3b9351fdc47a4cdcafb58f5c1118017c) |  |
 | [2](https://leetcode.com/problems/add-two-numbers/submissions/) | Add Two Numbers | [Note](https://jeewonkoo.notion.site/2-Add-Two-Numbers-81ef85a38abd4552a6f8a9aec541e18a) |  |
 | [11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | [Note](https://jeewonkoo.notion.site/11-Container-With-Most-Water-dcf1d37de2994e70a803800b981afcb7) | Blind 75 |
-| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Array | [Note](https://jeewonkoo.notion.site/0ccb17f9a7d84da2bf3b5f3c85242f01?v=5ecf425d37e241158c6f2c5a10d02547&p=5e986e3b7c754757b55c6a876424cfa6&pm=s) | Blind 75 |
+| [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parantheses | [Note](https://jeewonkoo.notion.site/20-Valid-Parentheses-1f9f4a852ded49cbad09c12d18562bbd) |  |
+| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Array | [Note](https://jeewonkoo.notion.site/21-Merge-Two-Sorted-Array-5e986e3b7c754757b55c6a876424cfa6) | Blind 75 |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Note](https://jeewonkoo.notion.site/22-Generate-Parentheses-1fff66a427d74e0cba5bed6c805c18ca) |  |
 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge k Sorted Lists | [Note](https://jeewonkoo.notion.site/23-Merge-k-Sorted-Lists-fe2127bd23bf464b9de06bd98683c30a) | Blind 75 |
 | [31](https://leetcode.com/problems/next-permutation/) | Next Permutation | [Note](https://jeewonkoo.notion.site/31-Next-Permutation-59100fe392a64dd89a76321b89275563) |  |
