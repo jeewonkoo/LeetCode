@@ -12,6 +12,7 @@
 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge k Sorted Lists | [Note](https://jeewonkoo.notion.site/23-Merge-k-Sorted-Lists-fe2127bd23bf464b9de06bd98683c30a) | Blind 75 |
 | [31](https://leetcode.com/problems/next-permutation/) | Next Permutation | [Note](https://jeewonkoo.notion.site/31-Next-Permutation-59100fe392a64dd89a76321b89275563) |  |
 | [36](https://leetcode.com/problems/valid-sudoku/) | Valid Sudoku | [Note](https://jeewonkoo.notion.site/36-Valid-Sudoku-dddbad4c12a14262a1d83e8694672bf4) |  |
+| [48](https://leetcode.com/problems/rotate-image/) | Rotate Image | [Note](https://jeewonkoo.notion.site/48-Rotate-Image-23aa4fb4a3784f2fbb9f13939b0f6df2) | Daily Challenge |
 | [54](https://leetcode.com/problems/spiral-matrix/) | Sprial Matrix | [Note](https://jeewonkoo.notion.site/54-Spiral-Matrix-4ba62b60740548f2807ab92768eb4d20) | Blind 75 |
 | [62](https://leetcode.com/problems/unique-paths/) | Unique Paths | [Note](https://jeewonkoo.notion.site/62-Unique-Paths-49da8b9632d04d28a6a4aee5b4f1e811) |  |
 | [69](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | [Note](https://jeewonkoo.notion.site/69-Sqrt-x-73b008e0f25f474e8df2402a15cce0b7) |  |
