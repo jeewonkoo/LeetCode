@@ -23,6 +23,7 @@
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Bset Time to Buy and Sell Stock | [Note](https://jeewonkoo.notion.site/121-Best-Time-to-Buy-and-Sell-Stock-0f5fbb3d9a7b4581b3dd220deb17bdaa) | Blind 75 |
 | [133](https://leetcode.com/problems/clone-graph/) | Clone Graph | [Note](https://jeewonkoo.notion.site/133-Clone-Graph-f239349fa28b45e2a8f1ea30cff23865) | Blind 75 |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | [Note](https://jeewonkoo.notion.site/141-Linked-List-Cycle-58527af5ac5348f2a28e231b75dc0c6d) | Blind 75 |
+| [169](https://leetcode.com/problems/majority-element/) | Majority Element | [Note](https://jeewonkoo.notion.site/169-Majority-Element-1010a81fcc4c4cfc9458c2781b841ec6) |  |
 | [200](https://leetcode.com/problems/number-of-islands/) | Number of Islands | [Note](https://jeewonkoo.notion.site/200-Number-of-Islands-9736e368173a4dceb6eccd49d0eb4525) | Daily Challenge |
 | [206](https://leetcode.com/problems/reverse-linked-list/) | Reversed Linked List | [Note](https://jeewonkoo.notion.site/206-Reverse-Linked-List-5e8ea1c55c0e43dfaec6a5e874f21216) |  |
 | [217](https://leetcode.com/problems/contains-duplicate/) | Contains Duplicate | [Note](https://jeewonkoo.notion.site/217-Contains-Duplicate-c099e416eebd425f89582e5e6f784570) | Blind 75 |
