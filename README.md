@@ -44,6 +44,7 @@
 | [409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | [Note](https://jeewonkoo.notion.site/409-Longest-Palindrome-699c9ee11b6542f48b6c19982beeb042) |  |
 | [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [Note](https://jeewonkoo.notion.site/412-FizzBuzz-7b3f1b7cfd344dbfafd1fc0c192d603d) |  |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Pacific Atlantic Water Flow | [Note](https://jeewonkoo.notion.site/417-Pacific-Atlantic-Water-Flow-7e9425c0a4354c39b6df6696c7ad38d4) | Daily Challenge |
+| [704](https://leetcode.com/problems/binary-search/) | Binary Search | [Note](https://jeewonkoo.notion.site/704-Binary-Search-f069528536fa4aad83fb016f1fdcfd46) |  |
 | [724](https://leetcode.com/problems/find-pivot-index/) | Find Pivot Index | [Note](https://jeewonkoo.notion.site/724-Find-Pivot-Index-316ee06a396f4f20a8c25b20592575be) |  |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | Uniqye Morse Code Words | [Note](https://jeewonkoo.notion.site/804-Unique-Morse-Code-Words-8a64daa11ca14273b97ecedee712a139) | Daily Challenge |
 | [869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | [Note](https://jeewonkoo.notion.site/869-Reordered-Power-of-2-84f9a41c166943f28c10f15ee5e6dae2) | Daily Challenge |
