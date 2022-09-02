@@ -45,6 +45,7 @@
 | [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [Note](https://jeewonkoo.notion.site/412-FizzBuzz-7b3f1b7cfd344dbfafd1fc0c192d603d) |  |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Pacific Atlantic Water Flow | [Note](https://jeewonkoo.notion.site/417-Pacific-Atlantic-Water-Flow-7e9425c0a4354c39b6df6696c7ad38d4) | Daily Challenge |
 | [509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [Note](https://jeewonkoo.notion.site/509-Fibonacci-Number-5c47c23c85ec43b8bf3e2b12666217b2) |  |
+| [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Note](https://jeewonkoo.notion.site/637-Average-of-Levels-in-Binary-Tree-6da6eae4049d47fb8e63f98b19b0d0c5) | Daily Challenge |
 | [704](https://leetcode.com/problems/binary-search/) | Binary Search | [Note](https://jeewonkoo.notion.site/704-Binary-Search-f069528536fa4aad83fb016f1fdcfd46) |  |
 | [724](https://leetcode.com/problems/find-pivot-index/) | Find Pivot Index | [Note](https://jeewonkoo.notion.site/724-Find-Pivot-Index-316ee06a396f4f20a8c25b20592575be) |  |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | Uniqye Morse Code Words | [Note](https://jeewonkoo.notion.site/804-Unique-Morse-Code-Words-8a64daa11ca14273b97ecedee712a139) | Daily Challenge |
@@ -54,3 +55,4 @@
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally/) | Sort the Matrix Diagonally | [Note](https://jeewonkoo.notion.site/1329-Sort-the-Matrix-Diagonally-d58ec31f1f644cf2a4ee28f8068e5073) | Daily Challenge |
 | [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Reduce Array Size to The Half | [Note](https://jeewonkoo.notion.site/1338-Reduce-Array-Size-to-The-Half-b8b88a36216d47c8b15d3468e767dae4) | Daily Challenge |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | [Note](https://jeewonkoo.notion.site/1480-Running-Sum-of-1d-Array-c14b3ed7ac524c75854bb3e27505d798) |  |
+| [1920](https://leetcode.com/problems/build-array-from-permutation/) | Build Array from Permutation | [Note](https://jeewonkoo.notion.site/1480-Running-Sum-of-1d-Array-c14b3ed7ac524c75854bb3e27505d798) |  |
