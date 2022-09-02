@@ -1,3 +1,4 @@
+import collections
 class Solution:
     def pacificAtlantic(self, heights):
         """
@@ -10,7 +11,7 @@ class Solution:
         
         def bfs(queue):
             visited = set()
-            dq = deque(queue)
+            dq = collections.deque(queue)
             directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
             while dq:
                 x, y = dq.popleft()
