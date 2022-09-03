@@ -48,6 +48,7 @@
 | [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Note](https://jeewonkoo.notion.site/637-Average-of-Levels-in-Binary-Tree-6da6eae4049d47fb8e63f98b19b0d0c5) | Daily Challenge |
 | [704](https://leetcode.com/problems/binary-search/) | Binary Search | [Note](https://jeewonkoo.notion.site/704-Binary-Search-f069528536fa4aad83fb016f1fdcfd46) |  |
 | [724](https://leetcode.com/problems/find-pivot-index/) | Find Pivot Index | [Note](https://jeewonkoo.notion.site/724-Find-Pivot-Index-316ee06a396f4f20a8c25b20592575be) |  |
+| [746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | [Note](https://jeewonkoo.notion.site/746-Min-Cost-Climbing-Stairs-e54004b1330f49229e6fe7912631d791) |  |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | Uniqye Morse Code Words | [Note](https://jeewonkoo.notion.site/804-Unique-Morse-Code-Words-8a64daa11ca14273b97ecedee712a139) | Daily Challenge |
 | [869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | [Note](https://jeewonkoo.notion.site/869-Reordered-Power-of-2-84f9a41c166943f28c10f15ee5e6dae2) | Daily Challenge |
 | [876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [Note](https://jeewonkoo.notion.site/876-Middle-of-the-Linked-List-6ec381c712244b73af94cb6c2c6db6f5) |  |
