@@ -45,6 +45,7 @@
 | [412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | [Note](https://jeewonkoo.notion.site/412-FizzBuzz-7b3f1b7cfd344dbfafd1fc0c192d603d) |  |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Pacific Atlantic Water Flow | [Note](https://jeewonkoo.notion.site/417-Pacific-Atlantic-Water-Flow-7e9425c0a4354c39b6df6696c7ad38d4) | Daily Challenge |
 | [509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | [Note](https://jeewonkoo.notion.site/509-Fibonacci-Number-5c47c23c85ec43b8bf3e2b12666217b2) |  |
+| [589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | N-ary Tree Preorder Traversal | [Note](https://jeewonkoo.notion.site/589-N-ary-Tree-Preorder-Traversal-3d02b5f975d54d00ab00018caffb5e0c) |  |
 | [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | [Note](https://jeewonkoo.notion.site/637-Average-of-Levels-in-Binary-Tree-6da6eae4049d47fb8e63f98b19b0d0c5) | Daily Challenge |
 | [704](https://leetcode.com/problems/binary-search/) | Binary Search | [Note](https://jeewonkoo.notion.site/704-Binary-Search-f069528536fa4aad83fb016f1fdcfd46) |  |
 | [724](https://leetcode.com/problems/find-pivot-index/) | Find Pivot Index | [Note](https://jeewonkoo.notion.site/724-Find-Pivot-Index-316ee06a396f4f20a8c25b20592575be) |  |
