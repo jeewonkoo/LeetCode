@@ -22,7 +22,8 @@
 | [81](https://leetcode.com/problems/decode-ways/) | Decode Ways | [Note](https://jeewonkoo.notion.site/81-Decode-Ways-b5fa802b92314d78989985227e36f92f) |  |
 | [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | [Note](https://jeewonkoo.notion.site/88-Merge-Sorted-Array-2e5663fe31d24ab99dd084e215868ea9) |  |
 | [120](https://leetcode.com/problems/surrounded-regions/) | Surrounded Regions | [Note](https://jeewonkoo.notion.site/120-Surrounded-Regions-3d73564caf914beaaaff66a9fe265fc2) |  |
-| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Bset Time to Buy and Sell Stock | [Note](https://jeewonkoo.notion.site/121-Best-Time-to-Buy-and-Sell-Stock-0f5fbb3d9a7b4581b3dd220deb17bdaa) | Blind 75 |
+| [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock | [Note](https://jeewonkoo.notion.site/121-Best-Time-to-Buy-and-Sell-Stock-0f5fbb3d9a7b4581b3dd220deb17bdaa) | Blind 75 |
+| [125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | [Note](https://jeewonkoo.notion.site/125-Valid-Palindrome-abd0db6e8c5d416b94f83603851e6927) |  |
 | [133](https://leetcode.com/problems/clone-graph/) | Clone Graph | [Note](https://jeewonkoo.notion.site/133-Clone-Graph-f239349fa28b45e2a8f1ea30cff23865) | Blind 75 |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | [Note](https://jeewonkoo.notion.site/141-Linked-List-Cycle-58527af5ac5348f2a28e231b75dc0c6d) | Blind 75 |
 | [169](https://leetcode.com/problems/majority-element/) | Majority Element | [Note](https://jeewonkoo.notion.site/169-Majority-Element-1010a81fcc4c4cfc9458c2781b841ec6) |  |
@@ -53,7 +54,7 @@
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | Uniqye Morse Code Words | [Note](https://jeewonkoo.notion.site/804-Unique-Morse-Code-Words-8a64daa11ca14273b97ecedee712a139) | Daily Challenge |
 | [869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | [Note](https://jeewonkoo.notion.site/869-Reordered-Power-of-2-84f9a41c166943f28c10f15ee5e6dae2) | Daily Challenge |
 | [876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | [Note](https://jeewonkoo.notion.site/876-Middle-of-the-Linked-List-6ec381c712244b73af94cb6c2c6db6f5) |  |
-| [967](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Numbers with same consecutive differences | [Note](https://jeewonkoo.notion.site/967-Numbers-with-Same-Consecutive-Differences-32fbb1d50ade477ea316a01e10618be6) |  |
+| [967](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Numbers with Same Consecutive Differences | [Note](https://jeewonkoo.notion.site/967-Numbers-with-Same-Consecutive-Differences-32fbb1d50ade477ea316a01e10618be6) |  |
 | [1205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings | [Note](https://jeewonkoo.notion.site/1205-Isomorphic-Strings-916e0d4a58b147de82907cc736d5ba8c) |  |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally/) | Sort the Matrix Diagonally | [Note](https://jeewonkoo.notion.site/1329-Sort-the-Matrix-Diagonally-d58ec31f1f644cf2a4ee28f8068e5073) | Daily Challenge |
 | [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | Reduce Array Size to The Half | [Note](https://jeewonkoo.notion.site/1338-Reduce-Array-Size-to-The-Half-b8b88a36216d47c8b15d3468e767dae4) | Daily Challenge |
