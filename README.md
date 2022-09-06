@@ -16,6 +16,7 @@
 | [48](https://leetcode.com/problems/rotate-image/) | Rotate Image | [Note](https://jeewonkoo.notion.site/48-Rotate-Image-23aa4fb4a3784f2fbb9f13939b0f6df2) | Daily Challenge |
 | [54](https://leetcode.com/problems/spiral-matrix/) | Sprial Matrix | [Note](https://jeewonkoo.notion.site/54-Spiral-Matrix-4ba62b60740548f2807ab92768eb4d20) | Blind 75 |
 | [62](https://leetcode.com/problems/unique-paths/) | Unique Paths | [Note](https://jeewonkoo.notion.site/62-Unique-Paths-49da8b9632d04d28a6a4aee5b4f1e811) |  |
+| [66](https://leetcode.com/problems/plus-one/) | Plus One | [Note](https://jeewonkoo.notion.site/66-Plus-One-7876db2040af40a69157bea7ecd994be) |  |
 | [69](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | [Note](https://jeewonkoo.notion.site/69-Sqrt-x-73b008e0f25f474e8df2402a15cce0b7) |  |
 | [70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | [Note](https://jeewonkoo.notion.site/70-Climbing-Stairs-f23050190629491e9ffb3730ab274fea) | Blind 75 |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | Set Matrix Zeros | [Note](https://jeewonkoo.notion.site/73-Set-Matrix-Zeros-9151ff09549447a3ac13b1b149043f24) | Blind 75 |
