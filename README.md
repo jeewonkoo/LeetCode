@@ -7,6 +7,7 @@
 | [1](https://leetcode.com/problems/two-sum/) | Two Sum | [Note](https://jeewonkoo.notion.site/1-Two-Sum-3b9351fdc47a4cdcafb58f5c1118017c) |  |
 | [2](https://leetcode.com/problems/add-two-numbers/submissions/) | Add Two Numbers | [Note](https://jeewonkoo.notion.site/2-Add-Two-Numbers-81ef85a38abd4552a6f8a9aec541e18a) |  |
 | [11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | [Note](https://jeewonkoo.notion.site/11-Container-With-Most-Water-dcf1d37de2994e70a803800b981afcb7) | Blind 75 |
+| [12](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix | [Note](https://jeewonkoo.notion.site/Longest-Common-Prefix-45b604445e57474ab722a35473ad61e0) |  |
 | [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parantheses | [Note](https://jeewonkoo.notion.site/20-Valid-Parentheses-1f9f4a852ded49cbad09c12d18562bbd) |  |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Array | [Note](https://jeewonkoo.notion.site/21-Merge-Two-Sorted-Array-5e986e3b7c754757b55c6a876424cfa6) | Blind 75 |
 | [22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | [Note](https://jeewonkoo.notion.site/22-Generate-Parentheses-1fff66a427d74e0cba5bed6c805c18ca) |  |
